@@ -1,0 +1,1 @@
+import{P as e}from"./PostsList-KitOqHr-.js";import{c as t,k as r,g as o,q as a,d as u}from"./index-B0BkaikO.js";import"./IconAvatar-DnJJ8yi9.js";const _={__name:"PostslistAuthor",setup(c){const s=a();return(n,l)=>(u(),t("div",null,[r(e,{userId:o(s).params.id},null,8,["userId"])]))}};export{_ as default};
